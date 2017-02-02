@@ -1,7 +1,7 @@
 using System;
 namespace Inserter
 {
- class B:A
+ abstract class B:A
     {
 		public override int Delete(int i)
 		{

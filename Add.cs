@@ -1,7 +1,7 @@
 using System;
 namespace Inserter
 {
-class C:A
+abstract class C:A
     {
 		public override int Add(int i)
 		{
